@@ -33,7 +33,8 @@ public class WebGit {
 		String title=driver.getTitle();
 		System.out.println(title.length());
 		System.out.println(title);
-		System.out.println(title.charAt(0));
+		System.out.println(title.charAt(1));
+		
 		}
 
 		public static void down()
