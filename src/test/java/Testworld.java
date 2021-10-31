@@ -37,7 +37,7 @@ driver.get("https://www.way2automation.com/");
 String title=driver.getTitle();
 System.out.println(title.length());
 System.out.println(title);
-System.out.println(title.charAt(2));
+System.out.println(title.charAt(3));
 
 }
 @AfterSuite
